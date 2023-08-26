@@ -1,6 +1,6 @@
 ## R code for estimation in semi-competing endpoints with PVF frailty: Restricted Model 
 ## Written by: Elizbeth Bedia
-## Edited by: Dipankar Bandyopadhyay
+## Edited by: Dipankar Bandyopadhyay, on 08/26/2023
 
 
 
