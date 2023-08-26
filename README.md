@@ -6,4 +6,4 @@ R code for profile likelihood based estimation in semi-competing risks endpoints
 
 Manuscript:
 
-Bedia EC, Cancho VG and Bandyopadhyay D. (2021+). A frailty model for semi-competing risk data withapplications to colon cancer, (Under Review) 
+Bedia EC, Cancho VG and Bandyopadhyay D. (2021+). A frailty model for semi-competing risk data with applications to colon cancer, (Under Review) 
