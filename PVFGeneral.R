@@ -1,6 +1,6 @@
 ## R code for profile likelihood based estimation in semi-competing endpoints with PVF frailty: General Model 
 ## Written by: Elizbeth Bedia
-## Edited by: Dipankar Bandyopadhyay
+## Edited by: Dipankar Bandyopadhyay, on 08/26/2023
 
 ############################ CALL DATA INTO R #####################################################
 library(survival)
